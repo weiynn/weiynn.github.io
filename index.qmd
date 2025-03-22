@@ -3,6 +3,17 @@ title: "Welcome"
 format: html
 ---
 
-# Welcome
+# Welcome to My Research Blog
 
-This blog shares thoughts, research, and experiments in applied psychology, VR, and behavioural change. Use the blog section to explore posts by date or category.
+This is a space where I reflect on research ideas, share updates on ongoing projects, and explore topics in applied and social psychology.
+
+Stay curious.
+
+
+## Recent Posts
+
+```{listing}
+contents: posts
+sort: "date desc"
+type: default
+categories: true
