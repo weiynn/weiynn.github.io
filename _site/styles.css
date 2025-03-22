@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  max-width: 750px;
+  margin: auto;
+  padding: 1em;
+}
+
+.navbar {
+  background: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}

@@ -1,0 +1,13 @@
+---
+title: "Blog Posts"
+format: html
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+# Blog
+
+Browse posts by date or category below.

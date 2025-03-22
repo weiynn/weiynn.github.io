@@ -1,0 +1,10 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+I'm an MPhil student researching how psychological ownership and immersive environments shape human attitudes and behaviour.
+
+I use this space to think in public and connect ideas across psychology and technology.

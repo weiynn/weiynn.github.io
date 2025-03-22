@@ -1,0 +1,8 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Welcome
+
+This blog shares thoughts, research, and experiments in applied psychology, VR, and behavioural change. Use the blog section to explore posts by date or category.
