@@ -6,7 +6,6 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-  feed: true
 ---
 
 # Welcome to My Research Blog
@@ -17,10 +16,3 @@ Stay curious.
 
 
 ## Recent Posts
-
-::: {.listing}
-contents: posts
-sort: "date desc"
-type: default
-categories: true
-:::

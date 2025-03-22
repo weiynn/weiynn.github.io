@@ -18,13 +18,34 @@
     "href": "posts/index.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "Blog Posts\nComing soon!"
+    "text": "Blog\nBrowse posts by date or category below.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Welcome to My Research Blog\nThis is a space where I reflect on research ideas, share updates on ongoing projects, and explore topics in applied and social psychology.\nStay curious."
+    "text": "This is a space where I reflect on research ideas, share updates on ongoing projects, and explore topics in applied and social psychology.\nStay curious."
+  },
+  {
+    "objectID": "posts/test1.html",
+    "href": "posts/test1.html",
+    "title": "Post Title Here",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/test1.html#quarto",
+    "href": "posts/test1.html#quarto",
+    "title": "Post Title Here",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/test1.html#running-code",
+    "href": "posts/test1.html#running-code",
+    "title": "Post Title Here",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
